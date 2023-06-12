@@ -1,0 +1,16 @@
+Home button: 
+Xpath: //*[@id="nav-link-home"]
+CSS: #nav-link-home
+
+Login button: 
+Xpath: //*[@id="nav-link-login"]
+CSS: #nav-link-login
+
+Logo of the site: 
+Xpath: //*[@id="homeIcon"]
+CSS: #homeIcon
+
+Background: 
+Xpath: //*[@class="container-fluid"]
+CSS: .container-fluid
+
